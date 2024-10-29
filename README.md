@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Varma</h1>
 <h3 align="center">A Backend and Machine Learning Developer</h3>
 
-- 🌱 I’m currently learning **Deep Learning and Graphics**
+- 🌱 I’m currently learning **Deep Learning and Web Development**
 
 - 💬 Ask me about **Data Structures & Algorithms, Operating Systems, Deep Learning, Backend Development**
 
