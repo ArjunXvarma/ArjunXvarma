@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **arj15835@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1GexICHX940s5Rm5WFESYKD1SCZjbZUJ/view?usp=sharing)
-
 - ⚡ Fun fact **I play the guitar and love cooking!**
 
 <h3 align="left">Connect with me:</h3>
