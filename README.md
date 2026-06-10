@@ -212,7 +212,6 @@ currently:
 &nbsp;&nbsp;
 <!-- WakaTime weekly coding stats — requires WakaTime account linked to GitHub -->
 <!-- If you don't use WakaTime, delete the img tag below and this comment -->
-<img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArjunXvarma&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58A6FF&text_color=c9d1d9&layout=compact&langs_count=6" alt="WakaTime Stats"/>
 
 <br/><br/>
 
@@ -245,13 +244,13 @@ currently:
 
 ```
   ┌──────────────────────────────────────────────────────────────────────────┐
-  │                                                                            │
+  │                                                                          │
   │   LLM Efficiency          →  distillation, quantisation, PEFT/LoRA       │
-  │   ML Systems              →  inference optimisation, serving pipelines    │
-  │   High-Frequency Trading  →  order book dynamics, ultra-low latency arch  │
-  │   Distributed Systems     →  consensus, fault tolerance, event streaming  │
-  │   Computer Architecture   →  cache hierarchy, memory models, atomics      │
-  │                                                                            │
+  │   ML Systems              →  inference optimisation, serving pipelines   │
+  │   High-Frequency Trading  →  order book dynamics, ultra-low latency arch │
+  │   Distributed Systems     →  consensus, fault tolerance, event streaming │
+  │   Computer Architecture   →  cache hierarchy, memory models, atomics     │
+  │                                                                          │
   └──────────────────────────────────────────────────────────────────────────┘
 ```
 
