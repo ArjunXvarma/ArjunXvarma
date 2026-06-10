@@ -202,24 +202,6 @@ currently:
 
 <br/><br/>
 
-<!-- GitHub Trophies — themes: algolia, radical, gruvbox, nord, monokai, darkhub, discord -->
-<img src="https://github-profile-trophy.vercel.app/?username=ArjunXvarma&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
-
-<br/><br/>
-
-<!-- Most committed repos -->
-<img height="165" src="https://github-contributor-stats.vercel.app/api?username=ArjunXvarma&limit=5&theme=github_dark&combine_all_yearly_contributions=true&bg_color=0d1117&border_color=30363d&title_color=58A6FF&text_color=c9d1d9" alt="Top Contributed Repos"/>
-&nbsp;&nbsp;
-<!-- WakaTime weekly coding stats — requires WakaTime account linked to GitHub -->
-<!-- If you don't use WakaTime, delete the img tag below and this comment -->
-
-<br/><br/>
-
-<!-- Detailed metrics card — private contributions, issues, PRs, reviews, discussions -->
-<img src="https://github-readme-stats.vercel.app/api?username=ArjunXvarma&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&hide_border=false&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage&hide=contribs,issues" alt="Extended GitHub Stats" width="97%"/>
-
-<br/><br/>
-
 <!-- Snake contribution animation — auto-generated via GitHub Actions (setup instructions below) -->
 <!-- SETUP: Add the workflow at .github/workflows/snake.yml (see: https://github.com/Platane/snk) -->
 <picture>
